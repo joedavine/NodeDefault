@@ -1,2 +1,2 @@
-# recommendatrack
-Exactly what it says on the tin.
+# NodeDefault
+My default template for node projects

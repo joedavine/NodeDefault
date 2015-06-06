@@ -1,24 +1,24 @@
 {
-  "name": "recommendatrack",
+  "name": "NodeDefault",
   "version": "1.0.0",
-  "description": "Exactly what it says on the tine",
+  "description": "My default node template for projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joedavine/recommendatrack.git"
+    "url": "https://github.com/joedavine/NodeDefault.git"
   },
   "keywords": [
-    "music"
+    "node"
   ],
   "author": "Joe Davine",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joedavine/recommendatrack/issues"
+    "url": "https://github.com/joedavine/NodeDefault/issues"
   },
-  "homepage": "https://github.com/joedavine/recommendatrack",
+  "homepage": "https://github.com/joedavine/NodeDefault",
   "dependencies": {
     "express": "^4.12.4",
     "express-handlebars": "^2.0.1",
